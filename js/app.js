@@ -32,6 +32,7 @@ document.body.appendChild(myPara);
 //method has to be called with two arguments:
 //the location of the HTML
 //the HTML text that is going to be inserted
+//
 
 const mainHeadingTwo = document.querySelector('.testThree');
 const htmlTextToAdd = '<h2>Skydiving is fun!</h2>';
